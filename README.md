@@ -8,3 +8,4 @@ This repo is my notebook where I will:
 - Write down what I learn
 - Experiment with simple things at home
 - Reflect on what I understand and what I find confusing
+- Use for future 
